@@ -10,7 +10,7 @@ checkButton.onclick = function () {
         resultBox.innerText = 'شما جوان هستید'
     }
     if(numberInput.value >=41 && numberInput.value <=60){
-        resultBox.innerText = 'سن شما پُخته هستید'
+        resultBox.innerText = 'سن شما پُخته است'
     }
     if(numberInput.value >=60 && numberInput.value <=10000){
         resultBox.innerText = 'شما کهن سال هستید'
